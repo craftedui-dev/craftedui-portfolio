@@ -2,7 +2,7 @@ export default function Experience() {
   const roles = [
     {
       company: "The Open University",
-      role: "Senior Frontend Engineer",
+      role: "Software Engineer",
       details:
         "React, TypeScript, Azure, AI‑powered UI workflows (AskOU), .NET Core API integration."
     },

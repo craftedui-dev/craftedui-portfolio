@@ -2,9 +2,11 @@
   return (
     <section className="max-w-6xl mx-auto px-6 py-24 text-center">
       <h2 className="text-4xl md:text-5xl font-bold text-slate-50 leading-tight">
-        Senior Frontend Engineer crafting scalable React experiences with{" "}
-        <span className="text-indigo-400">Azure</span> and{" "}
-        <span className="text-indigo-400">AI‑powered UI</span>.
+        Lead Front-End Engineer crafting scalable 
+        <span className="text-indigo-400">React and Angular</span>{" "} applications with  
+        <span className="text-indigo-400">Azure</span> and{" "} 
+        <span className="text-indigo-400">AI-powered experiences </span> and{" "} 
+        driven by UI architecture and design-system thinking.
       </h2>
 
       <p className="mt-6 text-lg text-slate-300 max-w-2xl mx-auto">
@@ -88,9 +90,9 @@ export default function Hero() {
       >
         Hi, I&apos;m <span className="text-indigo-400">Priyarani Remani</span>.
         <br className="hidden sm:block" />
-        Senior Frontend Engineer crafting scalable React experiences with{" "}
-        <span className="text-indigo-400">Azure</span> and{" "}
-        <span className="text-indigo-400">AI‑powered UI</span>.
+        <span className="text-indigo-400">Lead Front-End Engineer  </span>{" crafting scalable digital experiences through "}
+        <span className="text-indigo-400">UI Architecture, Design Systems</span>{", "}React, Angular, Azure and  {" "}
+        <span className="text-indigo-400">AI-powered solutions</span>.
       </motion.h1>
 
       {/* Subtext */}
@@ -100,7 +102,7 @@ export default function Hero() {
         transition={{ duration: 0.9, delay: 0.2, ease: "easeOut" }}
         className="mt-6 text-lg text-slate-300 max-w-2xl mx-auto"
       >
-        I build modern, high‑performance web applications using React, TypeScript,
+        I build modern, high‑performance web applications using React, Angular, TypeScript,
         Node.js, .NET Core, Azure, and intelligent UI workflows powered by
         Generative‑AI. My focus is on clean architecture, scalable UI systems, and
         cloud‑ready delivery.

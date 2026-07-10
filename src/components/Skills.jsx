@@ -1,6 +1,6 @@
 export default function Skills() {
   const skills = [
-    "React", "TypeScript", "JavaScript (ES6+)", "Node.js",
+    "React", "Angular & TypeScript", "JavaScript (ES6+)", "Node.js",
     ".NET Core", "Azure (App Services, Functions, DevOps Pipelines)",
     "AI‑powered UI workflows", "REST APIs", "Tailwind CSS",
     "Material UI", "Git", "Azure DevOps"
